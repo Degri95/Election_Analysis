@@ -9,30 +9,32 @@ In this project we are audititing election results of US congressional precinct 
 
 Using a Python script to analyze the data, we were able to provide the following results. I'll provide some snapshots of code used to gather information.
 
--Total number of votes cast: 369,711
+- Total number of votes cast: 369,711
 
 ![Total Votes code](/Resources/Total_Votes.PNG)
 
--Number of votes and percentage of the votes for each county:
-    -Jefferson: 10.5% (38,855)
-    -Denver: 82.8% (306,055)
-    -Arapahoe: 6.7% (24,801)
+- Number of votes and percentage of the votes for each county:
+    - Jefferson: 10.5% (38,855)
+    - Denver: 82.8% (306,055)
+    - Arapahoe: 6.7% (24,801)
 
 ![County Votes](/Resources/County_Perc.PNG)
 
--Which County had the largest number of votes: Denver
+- Which County had the largest number of votes: Denver
 
--Number of votes and percentage of the total votes each cantidate received:
-    -Charles Casper Stockham: 23.0% (85,213)
-    -Diana DeGette: 73.8% (272,892)
-    -Raymon Anthony Doane: 3.1% (11,606)
+![Largest County Code](/Resources/LG_County.PNG)
+
+- Number of votes and percentage of the total votes each cantidate received:
+    - Charles Casper Stockham: 23.0% (85,213)
+    - Diana DeGette: 73.8% (272,892)
+    - Raymon Anthony Doane: 3.1% (11,606)
 
 ![Candidate Votes](/Resources/Candidate_Votes.PNG)
 
--Final results of the Election:
-    -Winner: Diana DeGette
-    -Winning Vote Count: 272,892
-    -Winning Percentage: 73.8%
+- Final results of the Election:
+    - Winner: Diana DeGette
+    - Winning Vote Count: 272,892
+    - Winning Percentage: 73.8%
 
 ![Election Winner](/Resources/Winner.PNG)
 

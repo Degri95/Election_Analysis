@@ -5,7 +5,7 @@ Using Python to analyze Colorado election results
 
 In this project we are audititing election results of US congressional precinct in Colorado. We were given this task by an employee of the Colorado Board of Elections. We were provided a CSV file of the results to audit, and we exported our data in to a TXT file. Python and VS Code were the tools we used to perform our audit and analysis.
 
-## Election Audiit Results
+## Election Audit Results
 
 Using a Python script to analyze the data, we were able to provide the following results. I'll provide some snapshots of code used to gather information.
 
@@ -46,4 +46,4 @@ We were able to export all of this information into a text file with our script.
 ## Election-Audit Summary
 
 The script that we made successfully extracted and formatted the election results. It's possible to use this script to analyze any other past or future election results with some modifications. 
-We could scale the election size up and gather information by State if our data had the information. We could also add variables to gather information by city if the information was provided. By using similar code to what was used to gather the information for the election and county votes we could add almost any other attribute.
+We could scale the election size up and gather information by State if our data had the information. We could also add variables to gather information by City if the information was provided. By using similar code to what was used to gather the information for the election and County votes we could add almost any other attribute.
